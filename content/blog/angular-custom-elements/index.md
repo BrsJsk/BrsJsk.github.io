@@ -1,10 +1,9 @@
 ---
-slug: "/blog/angular-custom-elements-introduction"
 date: "2020-03-16"
 title: "Angular custom elements - introduction"
 ---
 
-![logo](https://dev-to-uploads.s3.amazonaws.com/i/1in1ws6i5rq5a14mjclq.png)
+![logo](./angular_thumbnail.png)
 
 In a land of framework wars, one thing that could help us are web components. Creating components and being able to use them in any javascript framework would be nice..in this series we will explore creating web components using Angular, publishing them and using them in plan javascript, React etc.
 
