@@ -1,11 +1,9 @@
 ---
-slug: "/blog/webpack-lazy-loading"
 date: "2019-01-08"
 title: "Lazy loading modules with Webpack"
-tags: lazy, loading, webpack, javascript
 ---
 
-![](https://thepracticaldev.s3.amazonaws.com/i/b14q99oadv8qik76vqe3.png)
+![](./webpack.png)
 
 Webpack is a great tool and it's really great to know at least basics of it. If we are working with Angular CLI, or Create React App, we already have webpack setup there, but if we are working on a web application that's not using a Javascript Framework, we should probably user a bundler. Sure, we could go with no-setup-needed Parcel but if we want more control, go with Webpack. My personal web site is all Javascript, only one HTML file and no framework. I'me using webpack as a bundler and lazy loading to improve performance and I'm really happy with it!
 
