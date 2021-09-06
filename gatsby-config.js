@@ -1,7 +1,3 @@
-require("dotenv").config({
-  path: `.env`,
-})
-
 module.exports = {
   siteMetadata: {
     title: `A Frontend Engineer's blog`,
@@ -57,7 +53,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: process.env.ANALYTICS_ID,
+        trackingId: "G-KJ6CE3XFMM",
       },
     },
     {
